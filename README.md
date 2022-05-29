@@ -1,1 +1,2 @@
 # SimplePlease.github.io
+Хостинг
